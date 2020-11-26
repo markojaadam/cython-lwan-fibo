@@ -19,6 +19,6 @@ A high-performant simple multicore cython-powered HTTP server computing for nth 
 # Usage
 Note: accepts input up to 50000!
 ```
-$curl -l http://localhost:8080/fib?n=50
+$ curl -l http://localhost:8080/fib?n=50
 55
 ```
