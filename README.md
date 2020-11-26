@@ -22,3 +22,8 @@ Note: accepts input up to 50000!
 $ curl -l http://localhost:8080/fib?n=50
 55
 ```
+
+# Testing
+1) Deploy server
+2) check if deploy URL matches in test.py to the deployed location
+3) run `python3 test.py`
