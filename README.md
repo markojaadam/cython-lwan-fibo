@@ -1,5 +1,5 @@
 # cython-lwan-fibo
-A high-performant simple multicore cython-powered HTTP server computing for nth element of fibonacci series
+A high-performant simple multicore cython-powered HTTP server for computing nth element of Fibonacci series
 - Based on https://www.nexedi.com/NXD-Blog.Multicore.Python.HTTP.Server
 
 # Requirements
